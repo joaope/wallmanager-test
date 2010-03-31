@@ -1,0 +1,4 @@
+*.pyc
+webmanager/db/dev.db
+.project
+.pydevproject
